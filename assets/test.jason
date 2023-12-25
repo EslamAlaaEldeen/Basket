@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 67,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Eric Wallerstein, Candice Choi, Margot Patrick, Chelsey Dulaney, Angus Berwick, Gunjan Banerji, Rebecca Feng, Heard Editors",
+            "title": "Stock Market Today: Dow Futures Edge Up Ahead of Fed Meeting; Instacart Stock in Focus - The Wall Street Journal",
+            "description": "Live coverage of what's moving stocks and other markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-09-19-2023",
+            "urlToImage": "https://images.wsj.net/im-785590/social",
+            "publishedAt": "2023-09-19T12:18:00Z",
+            "content": "Is there really a resurgence in the IPO market? Thats what investors are waiting to find out Tuesday as Septembers next big public offering kicks off. Instacart has set a price of $30 a share, which … [+1270 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroit Free Press"
+            },
+            "author": "Detroit Free Press",
+            "title": "Auto suppliers say if the UAW strikes more plants, it could mean the end for many - Detroit Free Press",
+            "description": null,
+            "url": "https://www.freep.com/story/money/cars/general-motors/2023/09/19/uaw-strike-2023-auto-suppliers/70894158007/",
+            "urlToImage": null,
+            "publishedAt": "2023-09-19T12:11:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Foo Yun Chee",
+            "title": "Google in last ditch effort to overturn $2.6 bln EU antitrust fine - Reuters",
+            "description": "Alphabet's <a href=\"https://www.reuters.com/markets/companies/GOOGL.O\" target=\"_blank\">(GOOGL.O)</a> Google on Tuesday made a last ditch effort at Europe's top court to overturn a 2.42 billion euro ($2.6 billion) EU antitrust fine imposed for market abuse rel…",
+            "url": "https://www.reuters.com/technology/google-last-ditch-effort-overturn-26-bln-eu-antitrust-fine-2023-09-19/",
+            "urlToImage": "https://www.reuters.com/resizer/zaDhEeSAesMlVlBkwkDQNvVqEGQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JE2WKSCFF5NV5DD2G66C4SYJQI.jpg",
+            "publishedAt": "2023-09-19T12:04:32Z",
+            "content": "LUXEMBOURG, Sept 19 (Reuters) - Alphabet's (GOOGL.O) Google on Tuesday made a last ditch effort at Europe's top court to overturn a 2.42 billion euro ($2.6 billion) EU antitrust fine imposed for mark… [+3133 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "John Rosevear",
+            "title": "EV charging needs big improvements soon if the auto industry's transition is going to work - CNBC",
+            "description": "There's a groundswell forming to expand and improve the U.S. charging landscape for EVs, but experts agree there's a long road ahead.",
+            "url": "https://www.cnbc.com/2023/09/19/ev-charging-industry-improvements.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107055974-16516814172022-05-04t161953z_974790308_rc2f0u9detsz_rtrmadp_0_canada-minerals.jpeg?v=1695124801&w=1920&h=1080",
+            "publishedAt": "2023-09-19T12:00:01Z",
+            "content": "A charging port is seen on a Mercedes Benz EQC 400 4Matic electric vehicle at the Canadian International AutoShow in Toronto, Ontario, Canada, February 13, 2019.\r\nThere's a looming problem with the a… [+11451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Emily Dattilo",
+            "title": "AutoZone Stock Falls as Domestic Commercial Growth Lower Than Expected - Barron's",
+            "description": "The automotive replacement parts maker posts fiscal fourth-quarter earnings of $46.46 a share, beating analysts' estimates.",
+            "url": "https://www.barrons.com/articles/autozone-stock-earnings-sales-56171ba9",
+            "urlToImage": "https://images.barrons.com/im-798538/social",
+            "publishedAt": "2023-09-19T11:37:00Z",
+            "content": "AutoZone\r\neasily beat earnings and sales estimates for its fiscal fourth quarter but the stock was falling after sales in the companys domestic commercial division came up short. \r\n AutoZone\r\n(ticker… [+997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Turkey President Asks Elon Musk \"Where's Your Wife?\", He Replies... - NDTV",
+            "description": "Billionaire Elon Musk brought his son X to a meeting with Turkish President Tayyip Erdogan, which led to an amusing exchange between the two.",
+            "url": "https://www.ndtv.com/world-news/turkey-president-asks-elon-musk-wheres-your-wife-he-replies-4404005",
+            "urlToImage": "https://c.ndtvimg.com/2023-09/d6fccpao_elon-musk-meets-turkish-president_625x300_19_September_23.jpg",
+            "publishedAt": "2023-09-19T11:10:35Z",
+            "content": "\"Where is your wife?\" Mr Erdogan asked Mr Musk.\r\nBillionaire Elon Musk brought his son X to a meeting with Turkish President Tayyip Erdogan, which led to an amusing exchange between the two. Mr Musk … [+1976 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Barbara Kollmeyer",
+            "title": "Veteran managers shelter in hard assets against possible 10-year yield at 6% - MarketWatch",
+            "description": "Critical information for the U.S. trading day",
+            "url": "https://www.marketwatch.com/story/were-not-in-there-for-the-next-20-were-in-there-for-the-next-300-two-veteran-managers-on-a-neglected-asset-731e6acc",
+            "urlToImage": "https://images.mktw.net/im-854162/social",
+            "publishedAt": "2023-09-19T10:58:00Z",
+            "content": "So far, it looks like another fence-sitting day for most equity investors. And thats understandable given a looming Fed meeting, auto strikes and now surging oil prices.Our call of the day comes from… [+7352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": null,
+            "title": "Instacart and Arm IPOs Suggest Investors Still Have Appetite for Stocks. What Happens Next. - Barron's",
+            "description": "UAW threatens to strike at more auto plants, Chevron sees oil prices heading to $100, retailers are preparing for holiday shopping season, and other news to start your day.",
+            "url": "https://www.barrons.com/articles/things-to-know-today-a121efe6",
+            "urlToImage": "https://images.barrons.com/im-282130/social",
+            "publishedAt": "2023-09-19T10:53:00Z",
+            "content": "Against all odds, the IPO market is backsort of.After the success of chip designer Arm Holdings debut last week, \r\nInstacart\r\npriced its IPO at the upper end of the expected range Monday, suggesting … [+10774 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Global Economy Poised to Slow as Higher Rates Bite, OECD Says - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2023-09-19/global-economy-poised-to-slow-as-higher-rates-bite-oecd-says",
+            "urlToImage": null,
+            "publishedAt": "2023-09-19T10:07:30Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Mauro Orru",
+            "title": "Elon Musk Floats Charging Users for X - The Wall Street Journal",
+            "description": "In wide-ranging conversation with Israel’s Netanyahu, he says asking users to pay for service is only way to fight bots",
+            "url": "https://www.wsj.com/tech/elon-musk-floats-charging-users-for-x-b6fb758d",
+            "urlToImage": "https://images.wsj.net/im-854152/social",
+            "publishedAt": "2023-09-19T10:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Joe Woelfel",
+            "title": "NIO, Moderna, Block, U.S. Steel, Rocket Lab, and More Stock Market Movers - Barron's",
+            "description": "NIO plans to raise $1 billion by issuing convertible senior notes, Moderna stock rebounds slightly, and the head of Square, Block's payments platform, is stepping down.",
+            "url": "https://www.barrons.com/articles/stock-market-movers-8c0c7b23",
+            "urlToImage": "https://images.barrons.com/im-464732/social",
+            "publishedAt": "2023-09-19T09:59:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sam Goldfarb",
+            "title": "The Market-Beating Investment That's Defying Wall Street Skeptics - The Wall Street Journal",
+            "description": "Rising interest rates are boosting risky corporate-loan returns instead of hurting them",
+            "url": "https://www.wsj.com/finance/investing/the-market-beating-investment-thats-defying-wall-street-skeptics-149e334c",
+            "urlToImage": "https://images.wsj.net/im-851567/social",
+            "publishedAt": "2023-09-19T09:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Paul Carsten",
+            "title": "Oil prices rise on supply deficit concerns - Reuters",
+            "description": "Oil prices rose on Tuesday for a fourth consecutive session as weak U.S. shale output spurred further concerns about a supply deficit stemming from extended production cuts by Saudi Arabia and Russia.",
+            "url": "https://www.reuters.com/markets/commodities/oil-prices-rise-supply-deficit-concerns-2023-09-19/",
+            "urlToImage": "https://www.reuters.com/resizer/5c1f2tu36LVmk8t4TMOAMvLasxY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZO2TST2SFBIXRI7CA7KFKOUIUI.jpg",
+            "publishedAt": "2023-09-19T09:19:45Z",
+            "content": "Sept 19 (Reuters) - Oil prices rose on Tuesday for a fourth consecutive session as weak U.S. shale output spurred further concerns about a supply deficit stemming from extended production cuts by Sau… [+2626 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Christian Hall, Bloomberg",
+            "title": "Ken Griffin, the billionaire hedge fund manager who moved Citadel from Chicago to Florida, slams DeSantis’s ‘pointless’ fight with Disney - Fortune",
+            "description": "Ron DeSantis needs to “make it clear to the entire United States of America, Florida is open to companies that want to create jobs,” Ken Griffin said.",
+            "url": "https://fortune.com/2023/09/19/ken-griffin-ron-desantiss-pointless-fight-disney/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/09/GettyImages-1247872748-e1695114662762.jpg?resize=1200,600",
+            "publishedAt": "2023-09-19T09:11:00Z",
+            "content": "Billionaire Ken Griffin criticized Ron DeSantiss ongoing feud with Walt Disney Co., calling the Florida governors battle with a major employer in his state pointless.It doesnt reflect well on the eth… [+3454 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Casey Hall",
+            "title": "U.S. business optimism about China outlook falls to record low - survey - Reuters",
+            "description": "Political tensions and a slowing economy are sapping the confidence of U.S. businesses operating in China, with the number of companies optimistic about their five-year outlook falling to a record low, a survey published on Tuesday showed.",
+            "url": "https://www.reuters.com/markets/us-business-optimism-about-china-outlook-falls-record-low-survey-2023-09-19/",
+            "urlToImage": "https://www.reuters.com/resizer/gdSsQGBZXHux7T1N2mXdVsrwmwU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VBMZQM5S6VL47CB33TJJ3WKYWU.jpg",
+            "publishedAt": "2023-09-19T08:37:00Z",
+            "content": "SHANGHAI, Sept 19 (Reuters) - Political tensions and a slowing economy are sapping the confidence of U.S. businesses operating in China, with the number of companies optimistic about their five-year … [+3498 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Teddy Grant",
+            "title": "Hundreds of flying taxis to be built in Ohio, governor announces - ABC News",
+            "description": "Officials said the project will bring 2,000 jobs to the area.",
+            "url": "https://abcnews.go.com/US/hundreds-flying-taxis-built-ohio-governor-announces/story?id=103287998",
+            "urlToImage": "https://i.abcnewsfe.com/a/7a4bdc36-ba0f-4ab9-9438-736e0c6023d7/air-taxi-1-ap-ps-230918_1695068048807_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-09-19T08:00:06Z",
+            "content": "Society may be getting one step closer to the flying commuter vehicles made famous in the animated series \"The Jetsons,\" as Ohio just announced that hundreds of flying taxis will be built at a facili… [+2136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "Bank of England deputy governor says impairments rising among UK lenders - CNBC",
+            "description": "The British banking sector is seeing a rise in impairments amid rising inflation and ensuing interest rate hikes, according to Bank of England Deputy Governor Sam Woods.",
+            "url": "https://www.cnbc.com/2023/09/19/bank-of-england-deputy-governor-says-impairments-rising-among-uk-lenders.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107267299-1688634073494-gettyimages-1198070009-hv6b3583.jpeg?v=1695109285&w=1920&h=1080",
+            "publishedAt": "2023-09-19T07:41:25Z",
+            "content": "In August, the Bank of England increased interest rates for the 14th time in a row.\r\nThe British banking sector is seeing a rise in impairments amid rising inflation and ensuing interest rate hikes, … [+2827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SpaceNews"
+            },
+            "author": "Jeff Foust",
+            "title": "Electron fails during Capella Space launch - SpaceNews",
+            "description": "A Rocket Lab Electron failed during a launch of Capella Space radar imaging satellite Sept. 19.",
+            "url": "https://spacenews.com/electron-fails-during-capella-space-launch/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2023/09/electron-acadia2.jpg",
+            "publishedAt": "2023-09-19T07:39:59Z",
+            "content": "Updated 6:30 a.m. Eastern with Rocket Lab comments.\r\nWASHINGTON A Rocket Lab Electron failed during a launch of Capella Space radar imaging satellite Sept. 19.\r\nThe Electron lifted off at 2:55 a.m. E… [+3603 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "DAVID McHUGH",
+            "title": "Once a global ideal, Germany's economy struggles with an energy shock that's exposing longtime flaws - The Associated Press",
+            "description": "Germany racked up one economic success after another for most of this century. But the loss of Russian natural gas due to the war in Ukraine has dealt a severe blow to its industry through higher energy costs. The country will be the world's only major econom…",
+            "url": "https://apnews.com/article/germany-economy-energy-crisis-russia-8a00eebbfab3f20c5c66b1cd85ae84ed",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f7f5798/2147483647/strip/true/crop/6600x3712+0+344/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2Fed%2F53975a9b8326ede399f8e711709c%2F13c6be4f41c647988d3fccace2dc6f6d",
+            "publishedAt": "2023-09-19T06:28:00Z",
+            "content": "ESSEN, Germany (AP) For most of this century, Germany racked up one economic success after another, dominating global markets for high-end products like luxury cars and industrial machinery, selling … [+8174 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Gas prices surge to $6 a gallon in SoCal - KTLA 5",
+            "description": "Last week, gas prices in Southern California skyrocketed at its fastest pace of the year, inching closer to the $6 per gallon mark, according to the AAA. On ...",
+            "url": "https://www.youtube.com/watch?v=8gahgE0gWoQ",
+            "urlToImage": "https://i.ytimg.com/vi/8gahgE0gWoQ/maxresdefault.jpg",
+            "publishedAt": "2023-09-19T06:09:39Z",
+            "content": null
+        }
+    ]
+}
